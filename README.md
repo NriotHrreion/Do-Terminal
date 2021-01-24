@@ -9,7 +9,13 @@ By NriotHrreion
 
 ## 使用
 
-下载后，进入工程根目录执行
+下载后，进入工程根目录后安装依赖
+
+```cmd
+npm install
+```
+
+接着运行
 
 ```cmd
 $ node index
