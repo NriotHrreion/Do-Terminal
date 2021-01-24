@@ -12,7 +12,7 @@ By NriotHrreion
 下载后，进入工程根目录后安装依赖
 
 ```cmd
-npm install
+$ npm install
 ```
 
 接着运行
