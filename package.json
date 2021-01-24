@@ -1,0 +1,11 @@
+{
+  "name": "do",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "NriotHrreion",
+  "license": "MIT"
+}
