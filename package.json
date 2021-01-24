@@ -7,5 +7,12 @@
     "start": "node index"
   },
   "author": "NriotHrreion",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "keypress": "^0.2.1",
+    "moment": "^2.29.1",
+    "ws": "^7.4.2"
+  }
 }
